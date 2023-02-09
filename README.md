@@ -20,9 +20,10 @@ Olá, eu sou o Leonardo Ashida! 👋
 </div>
 
 
-Informações sobre mim
+Informações Adicionais
 
 - 🔭 Desenvolvendo meu portifólio
 - 🌱 Estudando para área de desenvolvimento Front-end
+
 
 
